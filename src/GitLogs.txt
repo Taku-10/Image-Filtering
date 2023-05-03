@@ -1,0 +1,47 @@
+commit 8c23d90070879e370c2e6f5bc4aae23b82a7249b
+Author: = <takudzwamaseva020@gmail.com>
+Date:   Sat Aug 13 13:09:57 2022 +0200
+
+    Final version Makefile
+
+commit fbda18baba4c39a039b3aaf404107de7ef0d7742
+Author: = <takudzwamaseva020@gmail.com>
+Date:   Fri Aug 12 21:54:50 2022 +0200
+
+    Updated Makefile
+
+commit 1e3e0fa9af891b0e06224779719986b5943c9c7b
+Author: = <takudzwamaseva020@gmail.com>
+Date:   Thu Aug 11 23:42:11 2022 +0200
+
+    Refactored Parallel Algorithms
+
+commit 1c6c65f16ce0b2d68191c234f31c2b886dbd988f
+Author: = <takudzwamaseva020@gmail.com>
+Date:   Wed Aug 10 23:14:12 2022 +0200
+
+    Modified Methods
+
+commit 92a15554dca5b531864686acb8f2a72441e56b69
+Author: = <takudzwamaseva020@gmail.com>
+Date:   Wed Aug 10 23:09:48 2022 +0200
+
+    Validate method update
+
+commit 61f4d68e20e0351e8609817df54e3beaf20bc0c0
+Author: = <takudzwamaseva020@gmail.com>
+Date:   Wed Aug 10 23:02:31 2022 +0200
+
+    First Version parallel
+
+commit 4ba66f10d90efe2f0ef0f71120bce4350212bd8e
+Author: = <takudzwamaseva020@gmail.com>
+Date:   Tue Aug 9 22:52:15 2022 +0200
+
+    First Version Serial Programs
+
+commit 092373e99f2f7ffa204441f5effd9580baa2f6f5
+Author: = <takudzwamaseva020@gmail.com>
+Date:   Tue Aug 9 22:47:06 2022 +0200
+
+    First version makefile
